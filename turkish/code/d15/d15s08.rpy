@@ -4,7 +4,7 @@
 translate turkish d15s08_ac30fa16:
 
     # flr "You earned [d15s07_points] points."
-    flr "You earned [d15s07_points] points."
+    flr "1You earned [d15s07_points] points."
 
 # game/code/d15/d15s08.rpy:30
 translate turkish d15s08_09ac58cf:
